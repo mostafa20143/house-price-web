@@ -1,5 +1,5 @@
 
-## Model kpl Link
+## Model pkl Link
 https://drive.google.com/drive/folders/1P__ZbuIFeboPgyTF6uHElFIfCCSujbsp
 
 put in bath:
