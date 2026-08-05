@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+dist/
+
+# Data & Models 
+notebooks/data/*.csv
+backend/models/*.pkl
+*.pkl
+
+# Env
+.env
+.env.local
